@@ -7,6 +7,11 @@
 * NPM
 * Instalar Extencion de Visual Studio Code: `Live sass compiler`
 
+### Recursos
+
+* [Fuentes](/)
+* [Ilustraciones](/)
+
 
 ### Licencia de uso, terminos y condiciones
 

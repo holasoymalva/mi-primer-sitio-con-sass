@@ -11,6 +11,7 @@
 
 * [Fuentes](/)
 * [Ilustraciones](/)
+* [Diseño en Figma](/)
 
 
 ### Licencia de uso, terminos y condiciones
